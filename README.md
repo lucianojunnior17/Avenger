@@ -1,13 +1,12 @@
 ![JefersonLuckas](https://img.shields.io/badge/Jeferson%20Lucas-The%20Avengers%20Logo-green)
 ![GitHub language count](https://img.shields.io/github/languages/count/JefersonLucas/the-avengers-logo)
 ![GitHub top language](https://img.shields.io/github/languages/top/JefersonLucas/the-avengers-logo)
-![GitHub repo size](https://img.shields.io/github/repo-size/JefersonLucas/the-avengers-logo)
-[![GitHub license](https://img.shields.io/github/license/JefersonLucas/the-avengers-logo)](https://github.com/JefersonLucas/the-avengers-logo/blob/master/LICENSE)
+![GitHub](https://img.shields.io/github/license/JefersonLucas/the-avengers-logo?style=flat-square)
 ![GitHub contributors](https://img.shields.io/github/contributors/JefersonLucas/the-avengers-logo)
 ![GitHub stars](https://img.shields.io/github/stars/JefersonLucas/the-avengers-logo?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/JefersonLucas/the-avengers-logo?style=social)
 
-# The Avenger Logo
+# The Avengers Logo
 
 ![avengers](https://user-images.githubusercontent.com/39635734/83597108-d2b63a00-a53c-11ea-8b02-7642992c9ca9.png)
 
