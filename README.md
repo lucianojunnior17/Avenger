@@ -58,7 +58,7 @@ Usamos o [SemVer](https://semver.org/lang/pt-BR/) para controle de versão. Para
 ## Autores
 
 * [@JefersonLucas](https://github.com/JefersonLucas) - _Trabalho Inicial_.
-* [@rvsanches](https://github.com/JefersonLucas) - _Idealizador_.
+* [@rvsanches](https://github.com/rvsanches) - _Idealizador_.
 
 Veja também a lista completa de [contribuidores](https://github.com/JefersonLucas/the-avengers-logo/contributors) que participaram deste projeto.
 
